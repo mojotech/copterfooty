@@ -1,0 +1,13 @@
+{
+  "name": "copterfooty",
+  "version": "9.9.9",
+  "description": "Kill all copters",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twosigma/bunsen.git"
+  },
+  "author": "MOJO",
+  "dependencies": {
+    "nodecopter": "0.0.2"
+  }
+}
