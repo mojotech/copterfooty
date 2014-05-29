@@ -8,6 +8,8 @@
   },
   "author": "MOJO",
   "dependencies": {
-    "nodecopter": "0.0.2"
+    "nodecopter": "0.0.2",
+    "ar-drone": "latest",
+    "opencv": "latest"
   }
 }
