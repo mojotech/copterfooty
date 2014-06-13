@@ -28,6 +28,7 @@ var pngInterval = setInterval(function(){
     console.log('no new png');
   }
 }, 150);
+
 client.takeoff();
 client
   .after(5000, function() {
